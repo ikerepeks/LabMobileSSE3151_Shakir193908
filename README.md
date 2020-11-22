@@ -1,6 +1,8 @@
 # lab_worldtime
 
-A new Flutter project.
+Mobile Development Class Web Exercise by Shakir 193908
+
+The apps is used to view different world time by using external API
 
 ## Getting Started
 
